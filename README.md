@@ -44,6 +44,4 @@ cd seu-repo
 
 Projeto desenvolvido como parte do bootcamp da Digital Innovation One
 
----
 
-👉 Quer que eu adicione **badges (shields.io)** no topo (HTML5, CSS3, DIO) para deixar o README mais estilizado?
